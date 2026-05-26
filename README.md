@@ -31,6 +31,6 @@ A modern, high-fidelity dark-themed user interface built for an interactive care
 
 ### 🤝 Let's Connect!
 - 💼 **LinkedIn:** [Pamodi Kavindya](https://www.linkedin.com/in/pamodi-kavindya-9095663a6/)
-- ✉️ **Email:** your.email@example.com
+- ✉️ **Email:** pamodikavindya0@gmail.com
 
 *"Turning complex code into clean and beautiful digital experiences."*
